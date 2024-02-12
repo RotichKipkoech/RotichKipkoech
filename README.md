@@ -48,4 +48,4 @@ I am a web developer with over 2 years of experience in the industry. I have a s
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/rotichkipkoech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://https://www.buymeacoffee.com/kennyrotich"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

@@ -9,7 +9,7 @@ I am a web developer with over 2 years of experience in the industry. I have a s
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [ALL ABOUT ME](https://rotichkipkoech.github.io/portfolio/)
 * ✉️  You can contact me at [kipkoechrottich@gmail.com](mailto:kipkoechrottich@gmail.com)
-* 🧠  I'm learning Springboot.js
+* 🧠  I'm learning Springboot
 * 🤝  I'm open to collaborating on social media app
 * ⚡  I am also GRAPHIC DESIGNER
 

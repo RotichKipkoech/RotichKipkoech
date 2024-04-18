@@ -30,6 +30,18 @@ I am a web developer with over 2 years of experience in the industry. I have a s
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2033%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3533 commits        ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌆 Daytime                4836 commits        ███████████░░░░░░░░░░░░░░   44.99 % 
+🌃 Evening                2349 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌙 Night                  31 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
 
 ### Socials
 

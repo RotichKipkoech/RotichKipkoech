@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FULL STACK DEVELOPER
 --------------------
 
-I am a web developer with over 2 years of experience in the industry. I have a strong understanding of HTML, CSS, Python and Java. I am also proficient in a variety of other web development technologies, including React, Flask, Springboot, Bootstrap, Angular, and Vue.js. I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality websites and web applications. I am also a team player and I am able to work effectively with others to achieve common goals.
+I am a web developer with over 3 years of experience in the industry. I have a strong understanding of HTML, CSS, Python, Java and AWS Cloud computing. I am also proficient in a variety of other web development technologies, including React, Flask, Springboot and Bootstrap. I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality websites and web applications. I am also a team player and I am able to work effectively with others to achieve common goals.
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [ALL ABOUT ME](https://kennedyrotich.netlify.app/)
 * ✉️  You can contact me at [kipkoechrottich@gmail.com](mailto:kipkoechrottich@gmail.com)
 * 🧠  I'm learning Springboot
 * 🤝  I'm open to collaborating on social media app
-* ⚡  I am also GRAPHIC DESIGNER
+* ⚡  I am also Learning GRAPHIC DESIGNER
 
 ### Skills
 
@@ -48,7 +48,7 @@ I am a web developer with over 2 years of experience in the industry. I have a s
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.0%20million%20lines%20of%20code-blue)
 
 **I'm an Night 👨‍💻** 
 

@@ -23,9 +23,16 @@ I am a web developer with over 2 years of experience in the industry. I have a s
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
 </a>
+<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cicd-colored.svg" width="36" height="36" alt="CI/CD" />
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
+</a>
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>

@@ -10,8 +10,8 @@ I am a web developer with over 3 years of experience in the industry. I have a s
 * 🖥️  See my portfolio at [ALL ABOUT ME](https://kennedyrotich.netlify.app/)
 * ✉️  You can contact me at [kipkoechrottich@gmail.com](mailto:kipkoechrottich@gmail.com)
 * 🧠  I'm learning Springboot
-* 🤝  I'm open to collaborating on social media app
-* ⚡  I am Learning GRAPHIC DESIGNER
+* 🤝  I'm open to collaborating on social media
+* ⚡  I am Learning GRAPHIC DESIGN
 
 ### Skills
 

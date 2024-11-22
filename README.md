@@ -50,7 +50,7 @@ I am a web developer with over 3 years of experience in the industry. I have a s
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.0%20million%20lines%20of%20code-blue)
 
-**I'm an Night 👨‍💻** 
+**I'm an Night Person 👨‍💻** 
 
 ```text
 🌞 Morning                3533 commits        ███████████░░░░░░░░░░░░░░   26.87 %

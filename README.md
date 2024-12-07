@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KENNEDY ROTICH
 =====================================================================================================================================
 
-FULL STACK DEVELOPER
+SOFTWARE ENGINEER
 --------------------
 
-I am a web developer with over 3 years of experience in the industry. I have a strong understanding of JavaSript ,Python, Java and AWS Cloud computing. I am also proficient in a variety of other web development technologies, including React, Flask, Springboot and Bootstrap. I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality websites and web applications. I am also a team player and I am able to work effectively with others to achieve common goals.
+I am a Software Engineer with over 3 years of experience in the industry. I have a strong understanding of JavaSript ,Python, Java and AWS Cloud computing. I am also proficient in a variety of other web development technologies, including React, Flask, Springboot and Bootstrap. I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality websites and web applications. I am also a team player and I am able to work effectively with others to achieve common goals.
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [ALL ABOUT ME](https://kennedyrotich.netlify.app/)

@@ -10,7 +10,7 @@ I am a Software Engineer with over 4 years of experience in the industry. I have
 * 🖥️  See my portfolio at [ALL ABOUT ME](https://kennedyrotich.netlify.app/)
 * ✉️  You can contact me at [kipkoechrottich@gmail.com](mailto:kipkoechrottich@gmail.com)
 * 🧠  I'm Proficient in Springboot
-* 🤝  I'm open to collaborating on social media
+* 🤝  I'm open to collaboration
 * ⚡  I am Learning GRAPHIC DESIGN
 
 ### Skills
